@@ -8,3 +8,5 @@ This project was meant as an exercise.  At this time, now future development is 
 ## Project Image
 
 <img src="PacMen.png" alt="Pac Men Factory">
+## License
+This project is licensed under MIT
